@@ -1,8 +1,6 @@
 .fan__grid__wrapper {
     display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
     justify-items: center;
-    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     gap: 15px;
 }

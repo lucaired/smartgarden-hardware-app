@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
         <h1>Fan Control</h1>
-      <FanGrid/>
+        <FanGrid/>
     </div>
   );
 }

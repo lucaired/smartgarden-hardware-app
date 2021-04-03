@@ -9,7 +9,6 @@ function FanGrid() {
         <Button></Button>
         <Button></Button>
         <Button></Button>
-        <Button></Button>
       </div>
   );
 }

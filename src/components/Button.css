@@ -24,7 +24,7 @@
     display: none;
 }
 
-.Fan:active + .fan__schedule {
+.Fan:hover + .fan__schedule {
     display: block;
 }
 
